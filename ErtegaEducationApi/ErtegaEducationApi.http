@@ -1,0 +1,6 @@
+@ErtegaEducationApi_HostAddress = http://localhost:5031
+
+GET {{ErtegaEducationApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
